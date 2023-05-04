@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Users\Vedang\Documents\Major Project\Position-Fluidity-In-Basketball\venv"
+VIRTUAL_ENV="C:\Users\Vedang\Documents\PROJECTS\Major Project\Position-Fluidity-In-Basketball\venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
